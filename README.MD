@@ -6,12 +6,16 @@ Ancient logical game, see [wiki](https://en.wikipedia.org/wiki/Bulls_and_Cows).
 
 ## Build
 
-You need golang>=1
+You need golang compiler
 
 Type:  
 `go build`  
 You will get binary
 
-## License
+## Tests
 
-BSD 2
+There are some prebuilt tests (in file tests.go)
+
+## Licence
+
+BSD 2, see licence file
